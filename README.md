@@ -49,5 +49,3 @@ Steps performed :
 Discover the topics in the reviews and present it to business in a consumable format. Employ techniques for topic modeling.
 
 Perform specific cleanup, POS tagging, and restricting to relevant POS tags, then, perform topic modeling using LDA. 
-
-Finally, give business-friendly names to the topics and make a table for business.
